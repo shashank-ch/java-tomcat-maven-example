@@ -18,7 +18,7 @@ pipeline {
                 }
             }
         }
-
+/*
         stage ('Deploy Build in Staging Area'){
             steps{
 
@@ -45,6 +45,6 @@ pipeline {
                     echo 'Deployement Failure on PRODUCTION'
                 }
             }
-        }
+        }*/
     }
 }

@@ -1,9 +1,9 @@
 <html>
 <body>
 
-<h1>Edited 01/17/2018 - pipeline</h1>
+<h1>For Code - pipeLine</h1>
 
-<h2>Hello World!</h2>
+<h2>Hello World! Time : 10:07PM</h2>
 
 <h3>WelCome to Jenkins! We are working on Code Pipeline version 2</h3>
 
