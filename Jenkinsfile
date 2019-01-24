@@ -18,15 +18,15 @@ pipeline {
                 }
             }
         }
-/*
+
         stage ('Deploy Build in Staging Area'){
             steps{
 
-                build job : 'Deploy-StagingArea-Piple'
+                build job : 'Deploy_Staging_Pipeline'
 
             }
         }
-
+/*
         stage ('Deploy to Production'){
             steps{
                 timeout (time: 5, unit:'DAYS'){
